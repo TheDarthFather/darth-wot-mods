@@ -1,22 +1,32 @@
 # TheDarthFather's World of Tanks mods: bugs and ideas
 
-This is the place to report bugs and suggest ideas for my mods. Downloads stay on [WG Mods](https://wgmods.net/search/?owner=916831).
+Report bugs and suggest ideas for my mods here. Downloads stay on [WG Mods](https://wgmods.net/search/?owner=916831).
 
-| Mod | Video | What it does | Issues |
-|---|---|---|---|
-| [Player Tags](https://wgmods.net/8054/) | [Video](https://youtu.be/-bT0LA3HyPE) | Your own icon on blacklisted/whitelisted players | [Open issues](https://github.com/TheDarthFather/darth-wot-mods/issues?q=is%3Aissue+is%3Aopen+label%3Aplayer-tags) |
-| [Playlists QoL](https://wgmods.net/8059/) | [Video](https://youtu.be/ThsPFrtFpdE) | Playlists from the tech tree and coloured playlist badges on the carousel | [Open issues](https://github.com/TheDarthFather/darth-wot-mods/issues?q=is%3Aissue+is%3Aopen+label%3Aplaylists-qol) |
-| [Equipment QoL](https://wgmods.net/8149/) | [Video](https://youtu.be/lTZH4Zf5TN8) | See what bounty/equipment you own before you pick, and where it is mounted | [Open issues](https://github.com/TheDarthFather/darth-wot-mods/issues?q=is%3Aissue+is%3Aopen+label%3Aequipment-qol) |
+## My mods
+
+* **[Player Tags](https://wgmods.net/8054/)** | [Video](https://youtu.be/-bT0LA3HyPE) | [Issues](https://github.com/TheDarthFather/darth-wot-mods/issues?q=is%3Aissue+label%3Aplayer-tags)  
+  *Why did you blacklist that guy? Your own icon on him, so next battle you know who he is.*
+* **[Playlists QoL](https://wgmods.net/8059/)** | [Video](https://youtu.be/ThsPFrtFpdE) | [Issues](https://github.com/TheDarthFather/darth-wot-mods/issues?q=is%3Aissue+label%3Aplaylists-qol)  
+  *Building playlists one tank at a time is slow? Fill them from the tech tree and see each tank's playlists on its card.*
+* **[Equipment QoL](https://wgmods.net/8149/)** | [Video](https://youtu.be/lTZH4Zf5TN8) | [Issues](https://github.com/TheDarthFather/darth-wot-mods/issues?q=is%3Aissue+label%3Aequipment-qol)  
+  *Do I already own this bounty piece? The tooltip tells you before you click.*
 
 All mods share the **Rich Mod Settings** page (gear button in the garage or CTRL+SHIFT+D).
 
 ## Report a bug or suggest an idea
-- [Report a bug](https://github.com/TheDarthFather/darth-wot-mods/issues/new?template=bug.yml)
-- [Suggest an idea](https://github.com/TheDarthFather/darth-wot-mods/issues/new?template=idea.yml)
 
-Please pick the mod in the form, add the mod version, and attach `python.log` from your World of Tanks folder if you have it.
+* [Report a bug](https://github.com/TheDarthFather/darth-wot-mods/issues/new?template=bug.yml)
+* [Suggest an idea](https://github.com/TheDarthFather/darth-wot-mods/issues/new?template=idea.yml)
 
-No GitHub account? Comment on [Reddit](https://www.reddit.com/user/TheDarthFather/) or on the mod's WG Mods page; I read those too.
+Pick the mod in the form, add the mod version, and attach `python.log` from your World of Tanks folder if you have it. No GitHub account? Comment on Reddit, YouTube or the mod's WG Mods page; I read those too.
+
+## Find me
+
+* [WG Mods](https://wgmods.net/search/?owner=916831): all my mods
+* [YouTube](https://www.youtube.com/channel/UCyJnNQLd5HUJHH5yowIbIBQ): mod videos
+* [Twitch](https://www.twitch.tv/thedarthfath3r): live
+* [Reddit](https://www.reddit.com/user/TheDarthFather/): updates and discussion
+* [GitHub](https://github.com/TheDarthFather/darth-wot-mods): bugs and ideas
 
 I do this from passion. Your downloads and thumbs up on [WG Mods](https://wgmods.net/search/?owner=916831) are the best reward!
 
