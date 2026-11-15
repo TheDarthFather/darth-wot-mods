@@ -1,0 +1,23 @@
+name: Idea
+description: Suggest a feature or an improvement
+labels: ["idea"]
+body:
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Which mod?
+      options:
+        - Player Tags
+        - Playlists QoL
+        - Equipment QoL
+        - Rich Mod Settings
+        - A new mod
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What annoys you in the garage or in battle, and what would help?
+    validations:
+      required: true
