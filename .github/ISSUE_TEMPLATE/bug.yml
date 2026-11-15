@@ -1,0 +1,39 @@
+name: Bug report
+description: Something in one of the mods does not work
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Which mod?
+      options:
+        - Player Tags
+        - Playlists QoL
+        - Equipment QoL
+        - Rich Mod Settings
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Mod version
+      description: The file name shows it, e.g. darth.player_tags_1.0.6.wotmod
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game version and region
+      placeholder: 2.4.1.1 EU
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, what you saw instead.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: python.log (optional)
+      description: In your World of Tanks folder. Drag the file here, or paste the lines around the error.
